@@ -9,6 +9,6 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("git test1");
-		System.out.println("git test2 branch branch commit");
+		System.out.println("git test2 branch branch commit 222");
 	}
 }
