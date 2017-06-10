@@ -10,5 +10,6 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("git test1");
 		System.out.println("git test2 branch branch commit");
+		// master test
 	}
 }
